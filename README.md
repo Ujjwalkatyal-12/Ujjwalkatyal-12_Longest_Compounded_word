@@ -4,6 +4,9 @@ Longest Compound Word using Trie Data Structure:
 
 This Java program is designed to identify the longest and second-longest compound words within a given list of words. It employs a Trie data structure to optimize word search and validation.
 
+Overview
+This Java program addresses the Word Composition Problem, identifying the longest and second longest compounded words in two provided word lists (Input_01.txt and Input_02.txt). Utilizing a Trie data structure for efficient word storage and retrieval, the solution emphasizes correctness, approach, quality, and performance.
+
 Implementation Overview:
 
 The program reads and stores the content of specified files, treating each line as an element in an ArrayList.
