@@ -9,7 +9,7 @@ Implementation Overview:
 The program reads and stores the content of specified files, treating each line as an element in an ArrayList.
 It constructs a Trie data structure with nodes featuring child arrays and an isEnd flag marking the conclusion of a word.
 The words from the input files are inserted into the Trie, and a recursive approach is employed to identify compound words.
-System.nanoTime() is utilized to measure the execution time for processing the input files, with the duration printed in seconds.
+System.nanoTime() is utilized to measure the execution time for processing the input files, with the duration printed in milliseconds.
 
 Time Complexity Analysis:
 
